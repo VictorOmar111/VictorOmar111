@@ -41,4 +41,4 @@ Mi trabajo se centra en resolver problemas complejos en la intersección del MEV
 
 **📫 Cómo Contactarme**
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/victor-omar-malpica-guillen-810325372/) o enviarme un correo a `[Tu Correo Electrónico]`.
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/victor-omar-malpica-guillen-810325372/) o enviarme un correo a `axacdmx@gmail.com`.
