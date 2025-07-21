@@ -8,7 +8,7 @@
 
 Soy un desarrollador de Sistemas Blockchain y especialista en Rust**, enfocado en la construcción de aplicaciones de alto rendimiento y baja latencia para el ecosistema de Finanzas Descentralizadas (DeFi).
 
-Mi trabajo se centra en resolver problemas complejos en la intersección del MEV (Maximal Extractable Value), la privacidad y la infraestructura on-chain. Me apasiona arquitectar sistemas autónomos que sean seguros, eficientes y rentables.
+Mi trabajo se centra en resolver problemas complejos en la intersección del MEV (Maximal Extractable Value), la privacidad y la infraestructura on-chain. Me apasiona arquitectar sistemas autónomos seguros, eficientes y rentables.
 
 ---
 
